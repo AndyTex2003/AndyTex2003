@@ -67,3 +67,23 @@ Projeto de testes de performance de API utilizando k6, com checks e thresholds p
 Projeto de API desenvolvido para aplicação prática de conceitos de backend, estruturação de endpoints, validações e regras de negócio, ampliando a compreensão técnica utilizada em testes de APIs.
 
 **Competências:** API REST • Backend • Regras de Negócio • Validação de Endpoints
+
+---
+
+## Formação e Desenvolvimento Profissional
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Estácio de Sá
+- **Mentoria em Testes de Software 2.0 - Júlio de Lima**  
+  Formação prática em planejamento de testes, testes funcionais e exploratórios, API, automação Web/API e performance.
+- **IA Generativa para Produtividade em Testes**  
+  Aplicação de Inteligência Artificial como apoio às atividades de Qualidade de Software.
+- **Formação complementar em Python e desenvolvimento de APIs**
+
+---
+
+## Contato
+
+Estou aberto a oportunidades na área de Qualidade de Software e a conexões profissionais.
+
+- [LinkedIn - Anderson Santos](https://www.linkedin.com/in/anderson-santos-qa/)
+- [Email - andersonrexbatista@gmail.com](mailto:andersonrexbatista@gmail.com)
